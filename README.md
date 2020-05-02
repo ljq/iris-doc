@@ -10,6 +10,8 @@
 
 * Some of iris's design ideas are very good, and will become a sharp tool for developers to develop quickly.
 
+* Later, I will have time to supplement the specific implementation principles and details of the iris framework, and I welcome your discussion.
+
 If you need, please feel free to contact me for discussion. Welcome to open source world.
 
 #### Jack Liu's contact
