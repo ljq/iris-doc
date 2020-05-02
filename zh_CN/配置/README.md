@@ -10,7 +10,7 @@
 ### 框架基础配置用法：
 
 参数：
-* ```iris.WithConfiguration(iris.Configuration{ })```
+* ```iris.WithConfiguration(iris.Configuration{})```
 * ```iris.WithoutServerError(iris.ErrServerClosed)```
 * ```app.Run(iris.Addr(":8080"), iris.WithoutServerError(iris.ErrServerClosed))```
 

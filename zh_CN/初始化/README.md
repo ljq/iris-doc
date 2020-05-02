@@ -5,7 +5,7 @@
 
 ##### 框架启动参数常用主配置项：
 
-* ```iris.WithConfiguration(iris.Configuration{ })```
+* ```iris.WithConfiguration(iris.Configuration{})```
 * ```iris.WithoutServerError(iris.ErrServerClosed)```
 * ```app.Run(iris.Addr(":8080"), iris.WithoutServerError(iris.ErrServerClosed))```
 

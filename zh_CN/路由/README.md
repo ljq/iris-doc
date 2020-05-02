@@ -6,7 +6,7 @@
 # 基础用法
 
 ```
-//func handler(ctx iris.Context){ }
+//func handler(ctx iris.Context)
 app.Get("/", handler)
 ```
 
