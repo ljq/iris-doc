@@ -2,15 +2,15 @@
 
 #### remark
 
-The greatest truths are the simplest.  
-The world is a better place because of open source.
+* The greatest truths are the simplest. The world is a better place because of open source.
 
-* the official documents of the iris framework have not been updated too quickly, and many translated materials are not systematic enough. Some of the translations are superficial and misleading. As far as possible system comb relevant data notes convenient record review.
-* note combing is mainly concerned with systematically combing some key points and summaries of knowledge in the iris framework for long-term updating.
+* Up to now, the official documents of iris framework have not been updated very fast, and many translation materials are not systematic enough. Some fragmentary translations are misleading. So try to systematize and supplement the notes and summaries of relevant materials to facilitate the recording, exchange and learning, and get started quickly.
 
-* some of iris's minimalist design concepts are very good and will be a great tool for developers to develop quickly.
+* Note carding mainly considers the systematic carding of some knowledge focus and summary in iris framework, and is a long-term update. More analysis on the framework will be supplemented later. It is also hoped that the official documents will be updated as soon as possible.
 
-If you need to contact me at any time for discussion, welcome to join the open source world.
+* Some of iris's design ideas are very good, and will become a sharp tool for developers to develop quickly.
+
+If you need, please feel free to contact me for discussion. Welcome to open source world.
 
 #### Jack Liu's contact
 | Item  | Contact |
