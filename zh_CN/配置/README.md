@@ -18,8 +18,8 @@
 
 * 使用不定参数，引入常用配置型:
 app.Run(iris.Addr(":8080"), iris.WithoutServerError(iris.ErrServerClosed))
-    * **iris.WithConfiguration(iris.Configuration{})**
-	* **iris.WithoutServerError(iris.ErrServerClosed)**
+    * ** iris.WithConfiguration(iris.Configuration{})** 
+	* ** iris.WithoutServerError(iris.ErrServerClosed)** 
 
 * iris.WithConfiguration(iris.Configuration{})
 
@@ -27,7 +27,7 @@ app.Run(iris.Addr(":8080"), iris.WithoutServerError(iris.ErrServerClosed))
 * 以内部以struct结构体传参直接配置；
 * 外部文件加载模式支持：toml、yaml、json、xml、特殊场景自定义格式(环境变量、自定义文件)等。
 
-* 个人推荐使用**结构体内嵌传参** 或 ***YAML、TOML**中任一种，视使用场景而定。原因：使用json、xml需要编码时手动处理格式转换。
+* 个人推荐使用** 结构体内嵌传参**  或 ** *YAML、TOML** 中任一种，视使用场景而定。原因：使用json、xml需要编码时手动处理格式转换。
 
 ```
 
@@ -89,7 +89,7 @@ iris.WithConfiguration(iris.Configuration{
 
 注意在格式转换时，注意解析的处理，创建承载的街头体。
 
-例JSON格式处理方法(**处理方式多样，不拘泥于一种方式，视场景而定**)：
+例JSON格式处理方法(** 处理方式多样，不拘泥于一种方式，视场景而定** )：
 大致处理流程：
 * 加载json文件
 * 解析json数据

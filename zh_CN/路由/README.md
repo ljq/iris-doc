@@ -80,7 +80,7 @@ usersRouter.Done(func(context context.Context) {
 | 不含需要任何特殊正则表达式 | 只是用低级路径语法注册路由 |
 | 含特殊正则表达式          | 预先编译正则表达式并添加必要的中间件 |
 
-相对其他框架而言，**使用macros的优势**：这意味着相对于其他路由器或Web框架 您的性能成本为零。
+相对其他框架而言，** 使用macros的优势** ：这意味着相对于其他路由器或Web框架 您的性能成本为零。
 
 具体参数参考(route-params.md)官方文档:
 (route-params.md)[route-params.md]
