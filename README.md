@@ -20,7 +20,7 @@ If you need, please feel free to contact me for discussion. Welcome to open sour
 | Author | Jack Liu 秋 |
 | Email | stackgo@163.com |
 | Gmail | jackliu8909@gmail.com |
-| WeChat | laulinux |
+| WeChat | labsec |
 | QQ | 404691073 |
 | Blog | https://wdft.com |
 
